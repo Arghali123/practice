@@ -1,0 +1,7 @@
+ //mixix $mixin var_name{code--},
+  //@include var_name for execution for e.g
+  @mixin harry
+  {
+    font-size:58px;
+    color:$white;
+  }//these are the @mixin used in live.scss
